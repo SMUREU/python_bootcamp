@@ -312,7 +312,7 @@ Good questions are specific enough to investigate but broad enough to allow expl
 Potential sources:
 
 - [Data.gov](https://data.gov)
-- [ResearchData.gov] (https://www.researchdatagov.org)
+- [ResearchData.gov](https://www.researchdatagov.org)
 - [Census Reporter](https://censusreporter.org)
 - [Kaggle](https://www.kaggle.com/datasets)
 - [FiveThirtyEight](https://data.fivethirtyeight.com/)
